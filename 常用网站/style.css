@@ -1,7 +1,9 @@
 .my-table{
+    background-color: rgb(202, 239, 253);
     width:80%;
     border-collapse:collapse;
     text-align:center;
+    margin:0 auto;
 }
 .my-table th,.my-table td{
     border:3px solid black;
